@@ -22,7 +22,7 @@
     "chokidar": "^2.0.3",
     "cookie-session": "^1.4.0",
     "express": "^4.16.3",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "fs-extra": "^5.0.0",
     "http-status-codes": "^1.4.0",
     "jsonwebtoken": "^8.2.1",
